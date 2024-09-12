@@ -1,1 +1,0 @@
-# Guimmy_challenge_ONE

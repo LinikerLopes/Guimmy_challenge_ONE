@@ -1,0 +1,14 @@
+[
+  {
+    "value": "HP",
+    "autor_livro": "JK",
+    "ano_livro": "2000",
+    "checked": false
+  },
+  {
+    "value": "HP 2",
+    "autor_livro": "JK",
+    "ano_livro": "2001",
+    "checked": false
+  }
+]
